@@ -1,4 +1,6 @@
-### Hi there 👋
+## I study landscapes and how they change, often using computational or statistical models
+
+[![GitHub followers](https://img.shields.io/github/followers/jamesdamillington?style=social)](https://github.com/acocac) [![Twitter Follow](https://img.shields.io/twitter/follow/jamesmillington?style=social)](https://twitter.com/jamesmillington) [![](https://img.shields.io/badge/visit-website-yellow)](https://www.landscapemodelling.net)
 
 <!--
 **jamesdamillington/jamesdamillington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
