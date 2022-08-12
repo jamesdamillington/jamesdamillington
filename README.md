@@ -4,7 +4,7 @@
 
 I also teach [Spatial Data Science](https://kingsgeocomputation.org/teaching/sds/) and environmental geography in my current role as [Reader in Landscape Ecology](https://www.kcl.ac.uk/people/james-millington) in the Department of Geography at King's College London. See repos for some of my teaching materials [here](https://github.com/stars/jamesdamillington/lists/jm-teaching). 
 
-I primarily use Python and R, but have previously used C++ and can hack away in Java. I regularly use spatial libraries in the [pangeo](https://pangeo.io/) environment for Python and the [rspatial](https://rspatial.org) and [r-spatial](https://r-spatial.org/) projects. 
+Primarily, Python and R are my languages of choice, but I have previously used C++ and can hack away in Java. I regularly use spatial libraries in the [pangeo](https://pangeo.io/) environment for Python, and the [rspatial](https://rspatial.org) and [r-spatial](https://r-spatial.org/) projects. 
 
 I'm currently working with the [CRAFTY](https://github.com/stars/jamesdamillington/lists/crafty) and [WHAM!](https://github.com/jamesdamillington/Wildfire_Human_Agency_Model) simulation models for studying land use/cover change in Brazil and global fire use, respectively. I'm also working on a chapter for [the Environmental Data Science book](https://the-environmental-ds-book.netlify.app). 
 
