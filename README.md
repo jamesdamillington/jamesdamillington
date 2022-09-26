@@ -1,4 +1,4 @@
-### I study landscapes and how they change, often by using computational or statistical models
+### I study [landscapes](https://www.landscapemodelling.net) and how they change, often by using computational or statistical models
 
 I also teach [Spatial Data Science](https://kingsgeocomputation.org/teaching/sds/) and environmental geography in my current role as [Reader in Landscape Ecology](https://www.kcl.ac.uk/people/james-millington) in the Department of Geography at King's College London. See repos for some of my teaching materials [here](https://github.com/stars/jamesdamillington/lists/jm-teaching). 
 
