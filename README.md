@@ -6,7 +6,9 @@ Python and R are my languages of choice, but I have previously used C++ and can 
 
 I'm currently working with the [CRAFTY](https://github.com/stars/jamesdamillington/lists/crafty) and [WHAM!](https://github.com/jamesdamillington/Wildfire_Human_Agency_Model) simulation models for studying land use/cover change in Brazil and global fire use, respectively. Recently completed a chapter for the _Environmental Data Science_ book on [Exploring Land Cover Data](https://the-environmental-ds-book.netlify.app/gallery/exploration/general-exploration-landcover_io/general-exploration-landcover_io.html) using Python, OpenDataCube and HoloViews. 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jamesmillington?style=social)](https://twitter.com/jamesmillington) [![](https://img.shields.io/badge/visit-website-yellow?style=flat)](https://www.landscapemodelling.net)
+[![](https://img.shields.io/badge/visit-website-yellow?style=flat)](https://www.landscapemodelling.net)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=hmPk8yMAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jamesdamillington/)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0000-0002-5099-0001)
 <!--
 **jamesdamillington/jamesdamillington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
