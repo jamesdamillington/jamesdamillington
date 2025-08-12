@@ -4,7 +4,9 @@ I also teach [Spatial Data Science](https://kingsgeocomputation.org/teaching/sds
 
 Python and R are my languages of choice, but I have previously used C++ and can hack away in Java. I regularly use spatial libraries from the [pangeo](https://pangeo.io/) project for Python, and the [rspatial](https://rspatial.org) and [r-spatial](https://r-spatial.org/) projects for R. See my gists [here](https://gist.github.com/jamesdamillington).
 
-Recently I've worked with the [CRAFTY](https://github.com/stars/jamesdamillington/lists/crafty) and [WHAM!](https://github.com/jamesdamillington/Wildfire_Human_Agency_Model) simulation models for studying land use/cover change in Brazil and global fire use, respectively. I often work with environmental data in (geo)raster format (e.g. see [this chapter](https://the-environmental-ds-book.netlify.app/gallery/exploration/general-exploration-landcover_io/general-exploration-landcover_io.html) in the _Environmental Data Science_ online book) and I regularly review for [the Journal of Open Source Software](https://joss.theoj.org/). 
+Recently I've worked with the [CRAFTY](https://github.com/stars/jamesdamillington/lists/crafty) and [WHAM!](https://github.com/jamesdamillington/Wildfire_Human_Agency_Model) simulation models for studying land use/cover change in Brazil and global fire use, respectively. 
+
+I often work with environmental data in (geo)raster format (e.g. see [this chapter](https://the-environmental-ds-book.netlify.app/gallery/exploration/general-exploration-landcover_io/general-exploration-landcover_io.html) in the _Environmental Data Science_ online book) and I regularly review for [the Journal of Open Source Software](https://joss.theoj.org/). 
 
 [![Website](https://img.shields.io/badge/Website-Visit-yellow)](https://www.landscapemodelling.net)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0000-0002-5099-0001)
