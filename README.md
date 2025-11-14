@@ -1,6 +1,6 @@
 ### I study [landscape](https://www.landscapemodelling.net) and environmental change, often by using computational or statistical models
 
-I also teach [Spatial Data Science](https://kingsgeocomputation.org/teaching/sds/) and environmental geography in my current role as [Professor of Environmental Geography](https://www.kcl.ac.uk/people/james-millington) at King's College London. See repos for some of my teaching materials [here](https://github.com/stars/jamesdamillington/lists/jm-teaching). 
+I also teach [Spatial Data Science](https://kingsgeocomputation.org/teaching/sds/) and environmental geography in my role as [Professor of Environmental Geography](https://www.kcl.ac.uk/people/james-millington) at King's College London. See repos for some of my teaching materials [here](https://github.com/stars/jamesdamillington/lists/jm-teaching). 
 
 Python and R are my languages of choice, but I have previously used C++ and can hack away in Java. I regularly use spatial libraries from the [pangeo](https://pangeo.io/) project for Python, and the [rspatial](https://rspatial.org) and [r-spatial](https://r-spatial.org/) projects for R. See my gists [here](https://gist.github.com/jamesdamillington).
 
