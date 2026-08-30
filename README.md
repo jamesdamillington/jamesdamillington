@@ -6,12 +6,13 @@ Python and R are my languages of choice, but I have previously used C++ and can 
 
 Recently I've worked with the [CRAFTY](https://github.com/stars/jamesdamillington/lists/crafty) and [WHAM!](https://github.com/jamesdamillington/Wildfire_Human_Agency_Model) simulation models for studying land use/cover change in Brazil and global fire use, respectively. 
 
-I often work with environmental data in (geo)raster format (e.g. see [this chapter](https://edsbook.org/b128b282-dee7-44a7-bc21-f1fd21452a83/notebook) in the _Environmental Data Science_ online book) and I [regularly review](https://joss.theoj.org/papers/reviewed_by/@jamesdamillington) for the [Journal of Open Source Software](https://joss.theoj.org/). 
+I often work with environmental data in (geo)raster format (e.g. see [this chapter](https://edsbook.org/b128b282-dee7-44a7-bc21-f1fd21452a83/notebook) in the _Environmental Data Science_ online book) and I regularly review for the [Journal of Open Source Software](https://joss.theoj.org/). 
 
 [![Website](https://img.shields.io/badge/Website-Visit-yellow)](https://www.landscapemodelling.net)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0000-0002-5099-0001)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-red)](https://scholar.google.com/citations?user=hmPk8yMAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jamesdamillington/)
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@jamesdamillington)](https://joss.theoj.org/papers/reviewed_by/@jamesdamillington)
 <!--
 **jamesdamillington/jamesdamillington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
